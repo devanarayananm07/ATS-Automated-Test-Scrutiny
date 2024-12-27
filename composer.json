@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "*",
+        "masterminds/html5": "*",
+        "dompdf/dompdf": "*"
+    }
+}
